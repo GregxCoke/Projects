@@ -1,1 +1,1 @@
-This is a collection of projects i have done that showcase where I am currently skillwise for potetial employers. 
+This is a collection of projects I have created that showcase my software skillset. 
